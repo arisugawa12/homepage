@@ -1,0 +1,13 @@
+header{
+    position: -webkit-sticky;
+    position: fixed;  /* 位置を固定する */
+    top: 0;  /* 固定する位置を指定 */
+    left: 0;  /* 固定する位置を指定 */    
+    width: 100%;  /* ヘッダーの幅 */
+    height: 100px;  /* ヘッダーの高さ */
+    background: rgba(112, 232, 232, 0.5);  /* 背景色 */  
+}
+
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
